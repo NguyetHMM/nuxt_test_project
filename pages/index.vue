@@ -2,7 +2,7 @@
   <div class="container">
     <div>
       <logo />
-      <h2 class="title">URL_CATEGORIZE_PROJECT</h2>
+      <h2 class="title">URL-CATEGORIZE-PROJECT</h2>
       <upload-file />
     </div>
   </div>
